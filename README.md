@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ Hey There!
 
-![image](https://github.com/user-attachments/assets/e82a2d2a-b6f8-4776-bd2f-0d21ce77112e)
+![image](https://github.com/user-attachments/assets/f991934c-1b9e-4b39-9035-027eef047b77)
 
 
 ## A Little About Me
