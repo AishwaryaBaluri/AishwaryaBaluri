@@ -5,7 +5,7 @@
 
 ## A Little About Me
 
-I'm a data enthusiast deeply passionate about exploring datasets and uncovering meaningful insights. I bring a strong skill set in Power BI, SQL, and Python to the table. I view the data world as a continuous journey of discovery and learning. For me, the world of data is an endless journey of discovery and growth, and I'm continually broadening my skill set with various tools and techniques.
+I'm a data enthusiast deeply passionate about exploring datasets and uncovering meaningful insights. I bring a strong skill set in Power BI, SQL, and Python to the table. For me, the world of data is an endless journey of discovery and growth, and I'm continually broadening my skill set with various tools and techniques.
 
 Feel free to browse through my profile and check out my projects here 📚 [DataAnalystProfile-AB](https://github.com/AishwaryaBaluri/DataAnalystProfile-AB)
 
