@@ -14,6 +14,6 @@ Let’s connect and learn from each other! 🙌
 ## 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aishwaryabaluri1410/)
-- [Email](aishwaryabaluri493@gmail.com)
+- Email : aishwaryabaluri493@gmail.com
 
 🌍  I'm based in United States
