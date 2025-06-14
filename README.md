@@ -14,6 +14,6 @@ Let’s connect and learn from each other! 🙌
 ## 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aishwaryab99/)
-- Email : aishwaryab.careers@gmail.com
+- Email : aishwaryab.career@gmail.com
 
 🌍  United States
